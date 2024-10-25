@@ -1,4 +1,4 @@
-# **App Clientes**
+# **App Clientes Addresses**
 Este projeto é destinado ao gerenciamento de informações de clientes. Ele inclui scripts em Python para lidar com interações no banco de dados e templates HTML para renderizar a interface front-end.
 
 ### Estrutura do Projeto
